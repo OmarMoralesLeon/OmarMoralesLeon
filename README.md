@@ -1,4 +1,4 @@
-# Omar-Morales-Le-n
+# OmarMoralesLeon
 ### Hola 👋, Mi nombre es Omar Morales León 
 #### Soy estudiante de la carrera de Ingeniería en Sistemas Computacionales en la Universidad. 
 ![Soy estudiante de la carrera de Ingeniería en Sistemas Computacionales en la Universidad. ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
