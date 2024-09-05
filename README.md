@@ -1,11 +1,16 @@
 ## Hola 👋, Mi nombre es Omar Morales Leon
 #### Mi objetivo es continuar ampliando mis conocimientos en el área de la tecnología, con el fin de contribuir de manera significativa en proyectos innovadores y de impacto.
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Usuarios&label=Vistas%20de%20perfil&color=1&icon=0&pretty=true" />
+</a>
+
 ## Sobre mi
 - 🔭 Estoy trabajando en Un Sistema de Ventas en Python. 
 - 📫 Cómo contactarme: **l22590342@sjuanrio.tecnm.mx**
 
 Habilidades: Python / Android Studio / Firebase / Kotlin / SQLite
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
