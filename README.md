@@ -1,11 +1,10 @@
-# OmarMoralesLeon
+# <h1 align="center">Hola 👋, soy Omar Morales León 😎 </h1>
 
-<h1 align="center">Hola 👋, soy Omar Morales León</h1>
 <h3 align="center">Mi objetivo es continuar ampliando mis conocimientos en el área de la tecnología, con el fin de contribuir de manera significativa en proyectos innovadores y de impacto.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarmoralesleon&label=Profile%20views&color=0e75b6&style=flat" alt="omarmoralesleon " /> </p>
 
-- 🔭 Actualmente estoy trabajando en **Un Sistema de Ventas**
+- 🔭 Actualmente estoy trabajando en **Un Sistema de Ventas en Python**
 
 - 📫 Cómo contactarme **l22590342@sjuanrio.tecnm.mx**
 
