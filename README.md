@@ -1,8 +1,15 @@
 # Omar-Morales-Le-n
 ### Hola 👋, Mi nombre es Omar Morales León 
-#### Son estudiante de Ingeniería en Sistemas Computacionales en el Tecnológico Nacional de San Juan del Río
-![Son estudiante de Ingeniería en Sistemas Computacionales en el Tecnológico Nacional de San Juan del Río](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+#### Soy estudiante de la carrera de Ingeniería en Sistemas Computacionales en la Universidad. 
+![Soy estudiante de la carrera de Ingeniería en Sistemas Computacionales en la Universidad. ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+A lo largo de mi trayectoria académica, he adquirido experiencia en el uso de diversas herramientas tecnológicas, destacando principalmente el trabajo con Python y Android Studio. Estas competencias me han permitido desarrollar habilidades en programación y en la creación de aplicaciones móviles, las cuales considero fundamentales para mi crecimiento profesional.
+Mi objetivo es continuar ampliando mis conocimientos en el área de la tecnología, con el fin de contribuir de manera significativa en proyectos innovadores y de impacto.
 
 Habilidades: Python / Android Studio 
+
+- 🔭 Estoy trabajando en this page. 
+
+
+
+
