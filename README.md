@@ -3,7 +3,7 @@
 </a>
 
 <h3 align="center">Hola 👋, Mi nombre es Omar Morales Leon</h3>
-
+<h3 align="center">Estudiante de Ingeniería en Sistemas Computacionales</h3>
 <h3 align="center">Mi objetivo es continuar ampliando mis conocimientos en el área de la tecnología, con el fin de contribuir de manera significativa en proyectos innovadores y de impacto.</h3> 
 
 ## Sobre mi
