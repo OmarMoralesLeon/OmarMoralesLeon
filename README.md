@@ -17,14 +17,14 @@ Habilidades: Python / Android Studio / Firebase / Kotlin / SQLite
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,typescript,express,firebase,mongodb,c,mysql,flask" /><br>
 </div>
 <br/>
 <hr/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-<a href="https://github.com/ArisGuimera">
+<a href="https://github.com/OmarMoralesLeon">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarmoralesleon&show_icons=true&locale=es" alt="omarmoralesleon"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarmoralesleon&show_icons=true&locale=es&layout=compact" alt="omarmoralesleon"/>
 </a>
